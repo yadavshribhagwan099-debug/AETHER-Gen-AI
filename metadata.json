@@ -1,0 +1,6 @@
+{
+  "name": "Aether",
+  "description": "Next-Generation Premium AI Assistant with cognitive memory and future cognitive workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
